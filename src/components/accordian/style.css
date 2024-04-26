@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  height: 100vh;
+  widht: vh;
+  justify-content: center;
+  align-items: center;
+}
+.accordian {
+  width: 500px;
+}
+.item {
+  background: #614666;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  align-items: ;
+}
